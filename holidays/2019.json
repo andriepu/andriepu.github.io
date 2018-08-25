@@ -1,61 +1,61 @@
 {
-  "2018-12-31T17:00:00.000Z": {
+  "Mon, 31 Dec 2018 17:00:00 GMT": {
     "event": "Tahun Baru Masehi",
     "dateStr": "1 Januari 2019"
   },
-  "2019-02-04T17:00:00.000Z": {
+  "Mon, 04 Feb 2019 17:00:00 GMT": {
     "event": "Tahun Baru Imlek",
     "dateStr": "5 Februari 2019"
   },
-  "2019-03-06T17:00:00.000Z": {
+  "Wed, 06 Mar 2019 17:00:00 GMT": {
     "event": "Hari Raya Nyepi",
     "dateStr": "7 Maret 2019"
   },
-  "2019-04-02T17:00:00.000Z": {
+  "Tue, 02 Apr 2019 17:00:00 GMT": {
     "event": "Isra Miraj",
     "dateStr": "3 April 2019"
   },
-  "2019-04-18T17:00:00.000Z": {
+  "Thu, 18 Apr 2019 17:00:00 GMT": {
     "event": "Jumat Agung",
     "dateStr": "19 April 2019"
   },
-  "2019-04-30T17:00:00.000Z": {
+  "Tue, 30 Apr 2019 17:00:00 GMT": {
     "event": "Hari Buruh",
     "dateStr": "1 Mei 2019"
   },
-  "2019-05-18T17:00:00.000Z": {
+  "Sat, 18 May 2019 17:00:00 GMT": {
     "event": "Hari Raya Waisak",
     "dateStr": "19 Mei 2019"
   },
-  "2019-05-29T17:00:00.000Z": {
+  "Wed, 29 May 2019 17:00:00 GMT": {
     "event": "Kenaikan Isa Almasih",
     "dateStr": "30 Mei 2019"
   },
-  "2019-05-31T17:00:00.000Z": {
+  "Fri, 31 May 2019 17:00:00 GMT": {
     "event": "Hari Lahir Pancasila",
     "dateStr": "1 Juni 2019"
   },
-  "2019-06-03T17:00:00.000Z": {
+  "Mon, 03 Jun 2019 17:00:00 GMT": {
     "event": "Idul Fitri",
     "dateStr": "4 - 5 Juni 2019"
   },
-  "2019-08-16T17:00:00.000Z": {
+  "Fri, 16 Aug 2019 17:00:00 GMT": {
     "event": "Hari Kemerdekaan",
     "dateStr": "17 Agustus 2019"
   },
-  "2019-08-11T17:00:00.000Z": {
+  "Sun, 11 Aug 2019 17:00:00 GMT": {
     "event": "Idul Adha",
     "dateStr": "12 Agustus 2019"
   },
-  "2019-08-31T17:00:00.000Z": {
+  "Sat, 31 Aug 2019 17:00:00 GMT": {
     "event": "Tahun Baru Hijriyah",
     "dateStr": "1 September 2019"
   },
-  "2019-11-08T17:00:00.000Z": {
+  "Fri, 08 Nov 2019 17:00:00 GMT": {
     "event": "Maulid Nabi",
     "dateStr": "9 November 2019"
   },
-  "2019-12-24T17:00:00.000Z": {
+  "Tue, 24 Dec 2019 17:00:00 GMT": {
     "event": "Hari Natal",
     "dateStr": "25 Desember 2019"
   }

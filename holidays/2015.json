@@ -1,69 +1,69 @@
 {
-  "2014-12-31T17:00:00.000Z": {
+  "Wed, 31 Dec 2014 17:00:00 GMT": {
     "event": "Tahun Baru Masehi",
     "dateStr": "1 Januari 2015"
   },
-  "2015-01-02T17:00:00.000Z": {
+  "Fri, 02 Jan 2015 17:00:00 GMT": {
     "event": "Maulid Nabi",
     "dateStr": "3 Januari 2015"
   },
-  "2015-02-18T17:00:00.000Z": {
+  "Wed, 18 Feb 2015 17:00:00 GMT": {
     "event": "Tahun Baru Imlek",
     "dateStr": "19 Februari 2015"
   },
-  "2015-03-20T17:00:00.000Z": {
+  "Fri, 20 Mar 2015 17:00:00 GMT": {
     "event": "Hari Raya Nyepi",
     "dateStr": "21 Maret 2015"
   },
-  "2015-04-02T17:00:00.000Z": {
+  "Thu, 02 Apr 2015 17:00:00 GMT": {
     "event": "Jumat Agung",
     "dateStr": "3 April 2015"
   },
-  "2015-04-30T17:00:00.000Z": {
+  "Thu, 30 Apr 2015 17:00:00 GMT": {
     "event": "Hari Buruh",
     "dateStr": "1 Mei 2015"
   },
-  "2015-05-13T17:00:00.000Z": {
+  "Wed, 13 May 2015 17:00:00 GMT": {
     "event": "Kenaikan Isa Almasih",
     "dateStr": "14 Mei 2015"
   },
-  "2015-05-15T17:00:00.000Z": {
+  "Fri, 15 May 2015 17:00:00 GMT": {
     "event": "Isra Miraj",
     "dateStr": "16 Mei 2015"
   },
-  "2015-06-11T17:00:00.000Z": {
+  "Thu, 11 Jun 2015 17:00:00 GMT": {
     "event": "Hari Raya Waisak",
     "dateStr": "12 Juni 2015"
   },
-  "2015-07-15T17:00:00.000Z": {
+  "Wed, 15 Jul 2015 17:00:00 GMT": {
     "event": "Cuti Bersama",
     "dateStr": "16 Juli 2015"
   },
-  "2015-07-16T17:00:00.000Z": {
+  "Thu, 16 Jul 2015 17:00:00 GMT": {
     "event": "Idul Fitri",
     "dateStr": "17 - 18 Juli 2015"
   },
-  "2015-07-19T17:00:00.000Z": {
+  "Sun, 19 Jul 2015 17:00:00 GMT": {
     "event": "Cuti Bersama",
     "dateStr": "20 - 21 Juli 2015"
   },
-  "2015-08-16T17:00:00.000Z": {
+  "Sun, 16 Aug 2015 17:00:00 GMT": {
     "event": "Hari Kemerdekaan",
     "dateStr": "17 Agustus 2015"
   },
-  "2015-09-23T17:00:00.000Z": {
+  "Wed, 23 Sep 2015 17:00:00 GMT": {
     "event": "Idul Adha",
     "dateStr": "24 September 2015"
   },
-  "2015-10-13T17:00:00.000Z": {
+  "Tue, 13 Oct 2015 17:00:00 GMT": {
     "event": "Tahun Baru Hijriyah",
     "dateStr": "14 Oktober 2015"
   },
-  "2015-12-23T17:00:00.000Z": {
+  "Wed, 23 Dec 2015 17:00:00 GMT": {
     "event": "Maulid Nabi",
     "dateStr": "24 Desember 2015"
   },
-  "2015-12-24T17:00:00.000Z": {
+  "Thu, 24 Dec 2015 17:00:00 GMT": {
     "event": "Hari Natal",
     "dateStr": "25 Desember 2015"
   }

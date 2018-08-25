@@ -1,61 +1,61 @@
 {
-  "2020-12-31T17:00:00.000Z": {
+  "Thu, 31 Dec 2020 17:00:00 GMT": {
     "event": "Tahun Baru Masehi",
     "dateStr": "1 Januari 2021"
   },
-  "2021-02-11T17:00:00.000Z": {
+  "Thu, 11 Feb 2021 17:00:00 GMT": {
     "event": "Tahun Baru Imlek",
     "dateStr": "12 Februari 2021"
   },
-  "2021-03-10T17:00:00.000Z": {
+  "Wed, 10 Mar 2021 17:00:00 GMT": {
     "event": "Isra Miraj",
     "dateStr": "11 Maret 2021"
   },
-  "2021-03-13T17:00:00.000Z": {
+  "Sat, 13 Mar 2021 17:00:00 GMT": {
     "event": "Hari Raya Nyepi",
     "dateStr": "14 Maret 2021"
   },
-  "2021-05-01T17:00:00.000Z": {
+  "Sat, 01 May 2021 17:00:00 GMT": {
     "event": "Jumat Agung",
     "dateStr": "2 Mei 2021"
   },
-  "2021-04-30T17:00:00.000Z": {
+  "Fri, 30 Apr 2021 17:00:00 GMT": {
     "event": "Hari Buruh",
     "dateStr": "1 Mei 2021"
   },
-  "2021-05-12T17:00:00.000Z": {
+  "Wed, 12 May 2021 17:00:00 GMT": {
     "event": "Kenaikan Isa Almasih",
     "dateStr": "13 Mei 2021"
   },
-  "2021-05-14T17:00:00.000Z": {
+  "Fri, 14 May 2021 17:00:00 GMT": {
     "event": "Idul Fitri",
     "dateStr": "15 - 16 Mei 2021"
   },
-  "2021-05-25T17:00:00.000Z": {
+  "Tue, 25 May 2021 17:00:00 GMT": {
     "event": "Hari Raya Waisak",
     "dateStr": "26 Mei 2021"
   },
-  "2021-05-31T17:00:00.000Z": {
+  "Mon, 31 May 2021 17:00:00 GMT": {
     "event": "Hari Lahir Pancasila",
     "dateStr": "1 Juni 2021"
   },
-  "2021-07-19T17:00:00.000Z": {
+  "Mon, 19 Jul 2021 17:00:00 GMT": {
     "event": "Idul Adha",
     "dateStr": "20 Juli 2021"
   },
-  "2021-08-09T17:00:00.000Z": {
+  "Mon, 09 Aug 2021 17:00:00 GMT": {
     "event": "Tahun Baru Hijriyah",
     "dateStr": "10 Agustus 2021"
   },
-  "2021-08-16T17:00:00.000Z": {
+  "Mon, 16 Aug 2021 17:00:00 GMT": {
     "event": "Hari Kemerdekaan",
     "dateStr": "17 Agustus 2021"
   },
-  "2021-10-17T17:00:00.000Z": {
+  "Sun, 17 Oct 2021 17:00:00 GMT": {
     "event": "Maulid Nabi",
     "dateStr": "18 Oktober 2021"
   },
-  "2021-12-24T17:00:00.000Z": {
+  "Fri, 24 Dec 2021 17:00:00 GMT": {
     "event": "Hari Natal",
     "dateStr": "25 Desember 2021"
   }

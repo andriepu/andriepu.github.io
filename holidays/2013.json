@@ -1,65 +1,65 @@
 {
-  "2012-12-31T17:00:00.000Z": {
+  "Mon, 31 Dec 2012 17:00:00 GMT": {
     "event": "Tahun Baru Masehi",
     "dateStr": "1 Januari 2013"
   },
-  "2013-01-23T17:00:00.000Z": {
+  "Wed, 23 Jan 2013 17:00:00 GMT": {
     "event": "Maulid Nabi",
     "dateStr": "24 Januari 2013"
   },
-  "2013-02-09T17:00:00.000Z": {
+  "Sat, 09 Feb 2013 17:00:00 GMT": {
     "event": "Tahun Baru Imlek",
     "dateStr": "10 Februari 2013"
   },
-  "2013-03-11T17:00:00.000Z": {
+  "Mon, 11 Mar 2013 17:00:00 GMT": {
     "event": "Hari Raya Nyepi",
     "dateStr": "12 Maret 2013"
   },
-  "2013-03-28T17:00:00.000Z": {
+  "Thu, 28 Mar 2013 17:00:00 GMT": {
     "event": "Jumat Agung",
     "dateStr": "29 Maret 2013"
   },
-  "2013-05-08T17:00:00.000Z": {
+  "Wed, 08 May 2013 17:00:00 GMT": {
     "event": "Kenaikan Isa Almasih",
     "dateStr": "9 Mei 2013"
   },
-  "2013-05-24T17:00:00.000Z": {
+  "Fri, 24 May 2013 17:00:00 GMT": {
     "event": "Hari Raya Waisak",
     "dateStr": "25 Mei 2013"
   },
-  "2013-06-05T17:00:00.000Z": {
+  "Wed, 05 Jun 2013 17:00:00 GMT": {
     "event": "Isra Miraj",
     "dateStr": "6 Juni 2013"
   },
-  "2013-08-04T17:00:00.000Z": {
+  "Sun, 04 Aug 2013 17:00:00 GMT": {
     "event": "Cuti Bersama",
     "dateStr": "5 - 7 Agustus 2013"
   },
-  "2013-08-07T17:00:00.000Z": {
+  "Wed, 07 Aug 2013 17:00:00 GMT": {
     "event": "Idul Fitri",
     "dateStr": "8 - 9 Agustus 2013"
   },
-  "2013-08-16T17:00:00.000Z": {
+  "Fri, 16 Aug 2013 17:00:00 GMT": {
     "event": "Hari Kemerdekaan",
     "dateStr": "17 Agustus 2013"
   },
-  "2013-10-13T17:00:00.000Z": {
+  "Sun, 13 Oct 2013 17:00:00 GMT": {
     "event": "Cuti Bersama",
     "dateStr": "14 Oktober 2013"
   },
-  "2013-10-14T17:00:00.000Z": {
+  "Mon, 14 Oct 2013 17:00:00 GMT": {
     "event": "Idul Adha",
     "dateStr": "15 Oktober 2013"
   },
-  "2013-11-04T17:00:00.000Z": {
+  "Mon, 04 Nov 2013 17:00:00 GMT": {
     "event": "Tahun Baru Hijriyah",
     "dateStr": "5 November 2013"
   },
-  "2013-12-24T17:00:00.000Z": {
+  "Tue, 24 Dec 2013 17:00:00 GMT": {
     "event": "Hari Natal",
     "dateStr": "25 Desember 2013"
   },
-  "2013-12-25T17:00:00.000Z": {
+  "Wed, 25 Dec 2013 17:00:00 GMT": {
     "event": "Cuti Bersama",
     "dateStr": "26 Desember 2013"
   }

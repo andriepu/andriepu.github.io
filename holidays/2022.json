@@ -1,61 +1,61 @@
 {
-  "2021-12-31T17:00:00.000Z": {
+  "Fri, 31 Dec 2021 17:00:00 GMT": {
     "event": "Tahun Baru Masehi",
     "dateStr": "1 Januari 2022"
   },
-  "2022-01-31T17:00:00.000Z": {
+  "Mon, 31 Jan 2022 17:00:00 GMT": {
     "event": "Tahun Baru Imlek",
     "dateStr": "1 Februari 2022"
   },
-  "2022-02-28T17:00:00.000Z": {
+  "Mon, 28 Feb 2022 17:00:00 GMT": {
     "event": "Isra Miraj",
     "dateStr": "1 Maret 2022"
   },
-  "2022-03-02T17:00:00.000Z": {
+  "Wed, 02 Mar 2022 17:00:00 GMT": {
     "event": "Hari Raya Nyepi",
     "dateStr": "3 Maret 2022"
   },
-  "2022-04-14T17:00:00.000Z": {
+  "Thu, 14 Apr 2022 17:00:00 GMT": {
     "event": "Jumat Agung",
     "dateStr": "15 April 2022"
   },
-  "2022-04-30T17:00:00.000Z": {
+  "Sat, 30 Apr 2022 17:00:00 GMT": {
     "event": "Hari Buruh",
     "dateStr": "1 Mei 2022"
   },
-  "2022-05-02T17:00:00.000Z": {
+  "Mon, 02 May 2022 17:00:00 GMT": {
     "event": "Idul Fitri",
     "dateStr": "3 - 4 Mei 2022"
   },
-  "2022-05-15T17:00:00.000Z": {
+  "Sun, 15 May 2022 17:00:00 GMT": {
     "event": "Hari Raya Waisak",
     "dateStr": "16 Mei 2022"
   },
-  "2022-05-25T17:00:00.000Z": {
+  "Wed, 25 May 2022 17:00:00 GMT": {
     "event": "Kenaikan Isa Almasih",
     "dateStr": "26 Mei 2022"
   },
-  "2022-05-31T17:00:00.000Z": {
+  "Tue, 31 May 2022 17:00:00 GMT": {
     "event": "Hari Lahir Pancasila",
     "dateStr": "1 Juni 2022"
   },
-  "2022-07-09T17:00:00.000Z": {
+  "Sat, 09 Jul 2022 17:00:00 GMT": {
     "event": "Idul Adha",
     "dateStr": "10 Juli 2022"
   },
-  "2022-07-29T17:00:00.000Z": {
+  "Fri, 29 Jul 2022 17:00:00 GMT": {
     "event": "Tahun Baru Hijriyah",
     "dateStr": "30 Juli 2022"
   },
-  "2022-08-16T17:00:00.000Z": {
+  "Tue, 16 Aug 2022 17:00:00 GMT": {
     "event": "Hari Kemerdekaan",
     "dateStr": "17 Agustus 2022"
   },
-  "2022-10-07T17:00:00.000Z": {
+  "Fri, 07 Oct 2022 17:00:00 GMT": {
     "event": "Maulid Nabi",
     "dateStr": "8 Oktober 2022"
   },
-  "2022-12-24T17:00:00.000Z": {
+  "Sat, 24 Dec 2022 17:00:00 GMT": {
     "event": "Hari Natal",
     "dateStr": "25 Desember 2022"
   }
