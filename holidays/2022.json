@@ -1,47 +1,62 @@
 {
   "2021-12-31T17:00:00.000Z": {
-    "event": "Tahun Baru Masehi"
+    "event": "Tahun Baru Masehi",
+    "dateStr": "1 Januari 2022"
   },
   "2022-01-31T17:00:00.000Z": {
-    "event": "Tahun Baru Imlek"
+    "event": "Tahun Baru Imlek",
+    "dateStr": "1 Februari 2022"
   },
   "2022-02-28T17:00:00.000Z": {
-    "event": "Isra Miraj"
+    "event": "Isra Miraj",
+    "dateStr": "1 Maret 2022"
   },
   "2022-03-02T17:00:00.000Z": {
-    "event": "Hari Raya Nyepi"
+    "event": "Hari Raya Nyepi",
+    "dateStr": "3 Maret 2022"
   },
   "2022-04-14T17:00:00.000Z": {
-    "event": "Jumat Agung"
+    "event": "Jumat Agung",
+    "dateStr": "15 April 2022"
   },
   "2022-04-30T17:00:00.000Z": {
-    "event": "Hari Buruh"
+    "event": "Hari Buruh",
+    "dateStr": "1 Mei 2022"
   },
   "2022-05-02T17:00:00.000Z": {
-    "event": "Idul Fitri"
+    "event": "Idul Fitri",
+    "dateStr": "3 - 4 Mei 2022"
   },
   "2022-05-15T17:00:00.000Z": {
-    "event": "Hari Raya Waisak"
+    "event": "Hari Raya Waisak",
+    "dateStr": "16 Mei 2022"
   },
   "2022-05-25T17:00:00.000Z": {
-    "event": "Kenaikan Isa Almasih"
+    "event": "Kenaikan Isa Almasih",
+    "dateStr": "26 Mei 2022"
   },
   "2022-05-31T17:00:00.000Z": {
-    "event": "Hari Lahir Pancasila"
+    "event": "Hari Lahir Pancasila",
+    "dateStr": "1 Juni 2022"
   },
   "2022-07-09T17:00:00.000Z": {
-    "event": "Idul Adha"
+    "event": "Idul Adha",
+    "dateStr": "10 Juli 2022"
   },
   "2022-07-29T17:00:00.000Z": {
-    "event": "Tahun Baru Hijriyah"
+    "event": "Tahun Baru Hijriyah",
+    "dateStr": "30 Juli 2022"
   },
   "2022-08-16T17:00:00.000Z": {
-    "event": "Hari Kemerdekaan"
+    "event": "Hari Kemerdekaan",
+    "dateStr": "17 Agustus 2022"
   },
   "2022-10-07T17:00:00.000Z": {
-    "event": "Maulid Nabi"
+    "event": "Maulid Nabi",
+    "dateStr": "8 Oktober 2022"
   },
   "2022-12-24T17:00:00.000Z": {
-    "event": "Hari Natal"
+    "event": "Hari Natal",
+    "dateStr": "25 Desember 2022"
   }
 }

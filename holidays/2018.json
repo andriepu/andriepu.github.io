@@ -1,59 +1,78 @@
 {
   "2017-12-31T17:00:00.000Z": {
-    "event": "Tahun Baru Masehi"
+    "event": "Tahun Baru Masehi",
+    "dateStr": "1 Januari 2018"
   },
   "2018-02-15T17:00:00.000Z": {
-    "event": "Tahun Baru Imlek"
+    "event": "Tahun Baru Imlek",
+    "dateStr": "16 Februari 2018"
   },
   "2018-03-16T17:00:00.000Z": {
-    "event": "Hari Raya Nyepi"
+    "event": "Hari Raya Nyepi",
+    "dateStr": "17 Maret 2018"
   },
   "2018-03-29T17:00:00.000Z": {
-    "event": "Jumat Agung"
+    "event": "Jumat Agung",
+    "dateStr": "30 Maret 2018"
   },
   "2018-04-13T17:00:00.000Z": {
-    "event": "Isra Miraj"
+    "event": "Isra Miraj",
+    "dateStr": "14 April 2018"
   },
   "2018-04-30T17:00:00.000Z": {
-    "event": "Hari Buruh"
+    "event": "Hari Buruh",
+    "dateStr": "1 Mei 2018"
   },
   "2018-05-09T17:00:00.000Z": {
-    "event": "Kenaikan Isa Almasih"
+    "event": "Kenaikan Isa Almasih",
+    "dateStr": "10 Mei 2018"
   },
   "2018-05-28T17:00:00.000Z": {
-    "event": "Hari Raya Waisak"
+    "event": "Hari Raya Waisak",
+    "dateStr": "29 Mei 2018"
   },
   "2018-05-31T17:00:00.000Z": {
-    "event": "Hari Lahir Pancasila"
+    "event": "Hari Lahir Pancasila",
+    "dateStr": "1 Juni 2018"
   },
   "2018-06-12T17:00:00.000Z": {
-    "event": "Cuti Bersama"
+    "event": "Cuti Bersama",
+    "dateStr": "13 - 14 Juni 2018"
   },
   "2018-06-14T17:00:00.000Z": {
-    "event": "Idul Fitri"
+    "event": "Idul Fitri",
+    "dateStr": "15 - 16 Juni 2018"
   },
   "2018-06-17T17:00:00.000Z": {
-    "event": "Cuti Bersama"
+    "event": "Cuti Bersama",
+    "dateStr": "18 - 19 Juni 2018"
   },
   "2018-06-26T17:00:00.000Z": {
-    "event": "Pilkada"
+    "event": "Pilkada",
+    "dateStr": "27 Juni 2018"
   },
   "2018-08-16T17:00:00.000Z": {
-    "event": "Hari Kemerdekaan"
+    "event": "Hari Kemerdekaan",
+    "dateStr": "17 Agustus 2018"
   },
   "2018-08-21T17:00:00.000Z": {
-    "event": "Idul Adha"
+    "event": "Idul Adha",
+    "dateStr": "22 Agustus 2018"
   },
   "2018-09-10T17:00:00.000Z": {
-    "event": "Tahun Baru Hijriyah"
+    "event": "Tahun Baru Hijriyah",
+    "dateStr": "11 September 2018"
   },
   "2018-11-19T17:00:00.000Z": {
-    "event": "Maulid Nabi"
+    "event": "Maulid Nabi",
+    "dateStr": "20 November 2018"
   },
   "2018-12-23T17:00:00.000Z": {
-    "event": "Cuti Bersama"
+    "event": "Cuti Bersama",
+    "dateStr": "24 Desember 2018"
   },
   "2018-12-24T17:00:00.000Z": {
-    "event": "Hari Natal"
+    "event": "Hari Natal",
+    "dateStr": "25 Desember 2018"
   }
 }

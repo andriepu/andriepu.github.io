@@ -1,53 +1,70 @@
 {
   "2013-12-31T17:00:00.000Z": {
-    "event": "Tahun Baru Masehi"
+    "event": "Tahun Baru Masehi",
+    "dateStr": "1 Januari 2014"
   },
   "2014-01-13T17:00:00.000Z": {
-    "event": "Maulid Nabi"
+    "event": "Maulid Nabi",
+    "dateStr": "14 Januari 2014"
   },
   "2014-01-30T17:00:00.000Z": {
-    "event": "Tahun Baru Imlek"
+    "event": "Tahun Baru Imlek",
+    "dateStr": "31 Januari 2014"
   },
   "2014-03-30T17:00:00.000Z": {
-    "event": "Hari Raya Nyepi"
+    "event": "Hari Raya Nyepi",
+    "dateStr": "31 Maret 2014"
   },
   "2014-04-08T17:00:00.000Z": {
-    "event": "Pemilu"
+    "event": "Pemilu",
+    "dateStr": "9 April 2014"
   },
   "2014-04-17T17:00:00.000Z": {
-    "event": "Jumat Agung"
+    "event": "Jumat Agung",
+    "dateStr": "18 April 2014"
   },
   "2014-04-30T17:00:00.000Z": {
-    "event": "Hari Buruh"
+    "event": "Hari Buruh",
+    "dateStr": "1 Mei 2014"
   },
   "2014-05-14T17:00:00.000Z": {
-    "event": "Hari Raya Waisak"
+    "event": "Hari Raya Waisak",
+    "dateStr": "15 Mei 2014"
   },
   "2014-05-26T17:00:00.000Z": {
-    "event": "Isra Miraj"
+    "event": "Isra Miraj",
+    "dateStr": "27 Mei 2014"
   },
   "2014-05-28T17:00:00.000Z": {
-    "event": "Kenaikan Isa Almasih"
+    "event": "Kenaikan Isa Almasih",
+    "dateStr": "29 Mei 2014"
   },
   "2014-07-27T17:00:00.000Z": {
-    "event": "Idul Fitri"
+    "event": "Idul Fitri",
+    "dateStr": "28 - 29 Juli 2014"
   },
   "2014-07-29T17:00:00.000Z": {
-    "event": "Cuti Bersama"
+    "event": "Cuti Bersama",
+    "dateStr": "30 Juli - 1 Agustus 2014"
   },
   "2014-08-16T17:00:00.000Z": {
-    "event": "Hari Kemerdekaan"
+    "event": "Hari Kemerdekaan",
+    "dateStr": "17 Agustus 2014"
   },
   "2014-10-04T17:00:00.000Z": {
-    "event": "Idul Adha"
+    "event": "Idul Adha",
+    "dateStr": "5 Oktober 2014"
   },
   "2014-10-24T17:00:00.000Z": {
-    "event": "Tahun Baru Hijriyah"
+    "event": "Tahun Baru Hijriyah",
+    "dateStr": "25 Oktober 2014"
   },
   "2014-12-24T17:00:00.000Z": {
-    "event": "Hari Natal"
+    "event": "Hari Natal",
+    "dateStr": "25 Desember 2014"
   },
   "2014-12-25T17:00:00.000Z": {
-    "event": "Cuti Bersama"
+    "event": "Cuti Bersama",
+    "dateStr": "26 Desember 2014"
   }
 }

@@ -1,50 +1,66 @@
 {
   "2012-12-31T17:00:00.000Z": {
-    "event": "Tahun Baru Masehi"
+    "event": "Tahun Baru Masehi",
+    "dateStr": "1 Januari 2013"
   },
   "2013-01-23T17:00:00.000Z": {
-    "event": "Maulid Nabi"
+    "event": "Maulid Nabi",
+    "dateStr": "24 Januari 2013"
   },
   "2013-02-09T17:00:00.000Z": {
-    "event": "Tahun Baru Imlek"
+    "event": "Tahun Baru Imlek",
+    "dateStr": "10 Februari 2013"
   },
   "2013-03-11T17:00:00.000Z": {
-    "event": "Hari Raya Nyepi"
+    "event": "Hari Raya Nyepi",
+    "dateStr": "12 Maret 2013"
   },
   "2013-03-28T17:00:00.000Z": {
-    "event": "Jumat Agung"
+    "event": "Jumat Agung",
+    "dateStr": "29 Maret 2013"
   },
   "2013-05-08T17:00:00.000Z": {
-    "event": "Kenaikan Isa Almasih"
+    "event": "Kenaikan Isa Almasih",
+    "dateStr": "9 Mei 2013"
   },
   "2013-05-24T17:00:00.000Z": {
-    "event": "Hari Raya Waisak"
+    "event": "Hari Raya Waisak",
+    "dateStr": "25 Mei 2013"
   },
   "2013-06-05T17:00:00.000Z": {
-    "event": "Isra Miraj"
+    "event": "Isra Miraj",
+    "dateStr": "6 Juni 2013"
   },
   "2013-08-04T17:00:00.000Z": {
-    "event": "Cuti Bersama"
+    "event": "Cuti Bersama",
+    "dateStr": "5 - 7 Agustus 2013"
   },
   "2013-08-07T17:00:00.000Z": {
-    "event": "Idul Fitri"
+    "event": "Idul Fitri",
+    "dateStr": "8 - 9 Agustus 2013"
   },
   "2013-08-16T17:00:00.000Z": {
-    "event": "Hari Kemerdekaan"
+    "event": "Hari Kemerdekaan",
+    "dateStr": "17 Agustus 2013"
   },
   "2013-10-13T17:00:00.000Z": {
-    "event": "Cuti Bersama"
+    "event": "Cuti Bersama",
+    "dateStr": "14 Oktober 2013"
   },
   "2013-10-14T17:00:00.000Z": {
-    "event": "Idul Adha"
+    "event": "Idul Adha",
+    "dateStr": "15 Oktober 2013"
   },
   "2013-11-04T17:00:00.000Z": {
-    "event": "Tahun Baru Hijriyah"
+    "event": "Tahun Baru Hijriyah",
+    "dateStr": "5 November 2013"
   },
   "2013-12-24T17:00:00.000Z": {
-    "event": "Hari Natal"
+    "event": "Hari Natal",
+    "dateStr": "25 Desember 2013"
   },
   "2013-12-25T17:00:00.000Z": {
-    "event": "Cuti Bersama"
+    "event": "Cuti Bersama",
+    "dateStr": "26 Desember 2013"
   }
 }
