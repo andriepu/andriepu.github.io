@@ -7,7 +7,7 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "generate:holidays": "node ./api/holidays/generator.js"
+    "g:holidays": "node ./api/holidays/generator.js"
   },
   "dependencies": {
     "axios": "^0.18.0",

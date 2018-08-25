@@ -3,8 +3,23 @@ const cheerio = require('cheerio');
 const fs = require('fs');
 const { forEachSeries } = require('p-iteration');
 
-const SOURCE_URL = 'https://www.liburnasional.com/';
+const SOURCE_URL = 'https://publicholidays.co.id/id';
 const INDO_OFFSET_GMT = 7;
+
+const MONTH_ID_MAPPING = [
+  'Januari',
+  'Februari',
+  'Maret',
+  'April',
+  'Mei',
+  'Juni',
+  'Juli',
+  'Agustus',
+  'September',
+  'Oktober',
+  'November',
+  'Desember',
+];
 
 const normalizeIndoTime = (date) => {
   const diffHoursGMT = (-date.getTimezoneOffset() / 60) - INDO_OFFSET_GMT;
@@ -16,7 +31,7 @@ const getAllCalendarLinks = async () => {
   const { data: html } = await axios.get(`${SOURCE_URL}`);
   const $ = cheerio.load(html);
 
-  const $availableYears = $('[id^=libnas-linkid-menu-nationalholiday-]');
+  const $availableYears = $(`#nav-menu a[href^="${SOURCE_URL}"]`);
 
   return Array.from($availableYears).map(el => $(el).attr('href'));
 };
@@ -25,26 +40,53 @@ const getAllCalendarLinks = async () => {
   const calLinks = await getAllCalendarLinks();
 
   forEachSeries(calLinks, async (link) => {
-    const { data: html } = await axios.get(`${SOURCE_URL}${link}`);
+    const year = link.split('-')[0].split('/').reverse()[0];
+    const { data: html } = await axios.get(link);
+
     const $ = cheerio.load(html);
+
     const holidayElements = Array.from(
-      $('.libnas-calendar-holiday-title'),
+      $('table.publicholidays tr[class]'),
     );
 
     const holidays = holidayElements.reduce((res, el) => {
       const $el = $(el);
-      const $time = $el.find('time');
+      const [dateEl,, summaryParentEl] = Array.from($el.find('td'));
 
-      const dateTime = normalizeIndoTime((new Date($time.attr('datetime'))));
-      const dateStr = $time.text();
+      const event = $(summaryParentEl).text().trim();
 
-      const event = $el.find('a').text();
+      const date = $(dateEl).text();
+      const [start, end] = date.split(' to ');
 
-      res[dateTime.toUTCString()] = { event, dateStr };
+      const startSplitted = start.split(' ');
+      const startDate = normalizeIndoTime(new Date(
+        `${year}-${MONTH_ID_MAPPING.indexOf(startSplitted[1]) + 1}-${startSplitted[0]}`,
+      ));
+
+      // console.log(startDate.toUTCString(), 'utc', year, startSplitted);
+
+      Object.assign(res, {
+        [startDate.toUTCString()]: { event },
+      });
+
+      if (end) {
+        const endSplitted = end.split(' ');
+        const endDate = normalizeIndoTime(new Date(
+          `${year}-${MONTH_ID_MAPPING.indexOf(endSplitted[1]) + 1}-${endSplitted[0]}`,
+        ));
+
+        const dateDiffInDay = (endDate - startDate) / (1000 * 60 * 60 * 24);
+
+        for (let i = 0; i < dateDiffInDay; i += 1) {
+          startDate.setHours(24);
+          Object.assign(res, {
+            [startDate.toUTCString()]: { event },
+          });
+        }
+      }
+
       return res;
     }, {});
-
-    const year = link.split('-')[1].slice(0, -1);
 
     fs.writeFileSync(`${__dirname}/${year}.json`, JSON.stringify(holidays, null, 2), (err) => {
       if (err) throw err;
