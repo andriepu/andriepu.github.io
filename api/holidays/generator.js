@@ -21,9 +21,8 @@ const MONTH_ID_MAPPING = [
   'Desember',
 ];
 
-const normalizeIndoTime = (date) => {
-  const diffHoursGMT = (-date.getTimezoneOffset() / 60) - INDO_OFFSET_GMT;
-  date.setHours(diffHoursGMT, 0, 0, 0);
+const toIndoTimezone = (date) => {
+  date.setUTCHours(date.getUTCHours() - INDO_OFFSET_GMT);
   return date;
 };
 
@@ -59,8 +58,10 @@ const getAllCalendarLinks = async () => {
       const [start, end] = date.split(' to ');
 
       const startSplitted = start.split(' ');
-      const startDate = normalizeIndoTime(new Date(
-        `${year}-${MONTH_ID_MAPPING.indexOf(startSplitted[1]) + 1}-${startSplitted[0]}`,
+      const mm = `0${MONTH_ID_MAPPING.indexOf(startSplitted[1]) + 1}`.slice(-2);
+      const dd = `0${startSplitted[0]}`.slice(-2);
+      const startDate = toIndoTimezone(new Date(
+        `${year}-${mm}-${dd}`,
       ));
 
       // console.log(startDate.toUTCString(), 'utc', year, startSplitted);
@@ -71,8 +72,10 @@ const getAllCalendarLinks = async () => {
 
       if (end) {
         const endSplitted = end.split(' ');
-        const endDate = normalizeIndoTime(new Date(
-          `${year}-${MONTH_ID_MAPPING.indexOf(endSplitted[1]) + 1}-${endSplitted[0]}`,
+        const emm = `0${MONTH_ID_MAPPING.indexOf(endSplitted[1]) + 1}`.slice(-2);
+        const edd = `0${endSplitted[0]}`.slice(-2);
+        const endDate = toIndoTimezone(new Date(
+          `${year}-${emm}-${edd}`,
         ));
 
         const dateDiffInDay = (endDate - startDate) / (1000 * 60 * 60 * 24);
