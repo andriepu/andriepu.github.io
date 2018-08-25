@@ -1,62 +1,50 @@
 {
   "Tue, 31 Dec 2019 17:00:00 GMT": {
-    "event": "Tahun Baru Masehi",
-    "dateStr": "1 Januari 2020"
+    "event": "Tahun Baru Masehi"
   },
-  "Mon, 24 Feb 2020 17:00:00 GMT": {
-    "event": "Tahun Baru Imlek",
-    "dateStr": "25 Februari 2020"
+  "Fri, 24 Jan 2020 17:00:00 GMT": {
+    "event": "Tahun Baru Imlek"
   },
   "Sat, 21 Mar 2020 17:00:00 GMT": {
-    "event": "Isra Miraj",
-    "dateStr": "22 Maret 2020"
+    "event": "Isra Mi'raj"
   },
   "Tue, 24 Mar 2020 17:00:00 GMT": {
-    "event": "Hari Raya Nyepi",
-    "dateStr": "25 Maret 2020"
+    "event": "Hari Raya Nyepi"
   },
   "Thu, 09 Apr 2020 17:00:00 GMT": {
-    "event": "Jumat Agung",
-    "dateStr": "10 April 2020"
+    "event": "Jumat Agung"
   },
   "Thu, 30 Apr 2020 17:00:00 GMT": {
-    "event": "Hari Buruh",
-    "dateStr": "1 Mei 2020"
+    "event": "Hari Buruh"
   },
   "Wed, 06 May 2020 17:00:00 GMT": {
-    "event": "Hari Raya Waisak",
-    "dateStr": "7 Mei 2020"
+    "event": "Hari Waisak"
   },
   "Wed, 20 May 2020 17:00:00 GMT": {
-    "event": "Kenaikan Isa Almasih",
-    "dateStr": "21 Mei 2020"
+    "event": "Kenaikan Isa Almasih"
   },
   "Sat, 23 May 2020 17:00:00 GMT": {
-    "event": "Idul Fitri",
-    "dateStr": "24 - 25 Mei 2020"
+    "event": "Hari Raya Idul Fitri"
+  },
+  "Sun, 24 May 2020 17:00:00 GMT": {
+    "event": "Cuti Bersama Lebaran"
   },
   "Sun, 31 May 2020 17:00:00 GMT": {
-    "event": "Hari Lahir Pancasila",
-    "dateStr": "1 Juni 2020"
+    "event": "Hari Lahir Pancasila"
   },
   "Thu, 30 Jul 2020 17:00:00 GMT": {
-    "event": "Idul Adha",
-    "dateStr": "31 Juli 2020"
+    "event": "Idul Adha"
   },
   "Sun, 16 Aug 2020 17:00:00 GMT": {
-    "event": "Hari Kemerdekaan",
-    "dateStr": "17 Agustus 2020"
+    "event": "Hari Kemerdekaan"
   },
   "Wed, 19 Aug 2020 17:00:00 GMT": {
-    "event": "Tahun Baru Hijriyah",
-    "dateStr": "20 Agustus 2020"
+    "event": "Tahun Baru Islam"
   },
-  "Wed, 28 Oct 2020 17:00:00 GMT": {
-    "event": "Maulid Nabi",
-    "dateStr": "29 Oktober 2020"
+  "Tue, 27 Oct 2020 17:00:00 GMT": {
+    "event": "Maulid Nabi Muhammad SAW"
   },
-  "Thu, 24 Dec 2020 17:00:00 GMT": {
-    "event": "Hari Natal",
-    "dateStr": "25 Desember 2020"
+  "Wed, 23 Dec 2020 17:00:00 GMT": {
+    "event": "Hari Natal"
   }
 }

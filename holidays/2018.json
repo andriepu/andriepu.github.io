@@ -1,78 +1,77 @@
 {
   "Sun, 31 Dec 2017 17:00:00 GMT": {
-    "event": "Tahun Baru Masehi",
-    "dateStr": "1 Januari 2018"
+    "event": "Tahun Baru Masehi"
   },
   "Thu, 15 Feb 2018 17:00:00 GMT": {
-    "event": "Tahun Baru Imlek",
-    "dateStr": "16 Februari 2018"
+    "event": "Tahun Baru Imlek"
   },
   "Fri, 16 Mar 2018 17:00:00 GMT": {
-    "event": "Hari Raya Nyepi",
-    "dateStr": "17 Maret 2018"
+    "event": "Hari Raya Nyepi"
   },
   "Thu, 29 Mar 2018 17:00:00 GMT": {
-    "event": "Jumat Agung",
-    "dateStr": "30 Maret 2018"
+    "event": "Jumat Agung"
   },
   "Fri, 13 Apr 2018 17:00:00 GMT": {
-    "event": "Isra Miraj",
-    "dateStr": "14 April 2018"
+    "event": "Isra Mi'raj"
   },
   "Mon, 30 Apr 2018 17:00:00 GMT": {
-    "event": "Hari Buruh",
-    "dateStr": "1 Mei 2018"
+    "event": "Hari Buruh"
   },
   "Wed, 09 May 2018 17:00:00 GMT": {
-    "event": "Kenaikan Isa Almasih",
-    "dateStr": "10 Mei 2018"
+    "event": "Kenaikan Isa Almasih"
   },
   "Mon, 28 May 2018 17:00:00 GMT": {
-    "event": "Hari Raya Waisak",
-    "dateStr": "29 Mei 2018"
+    "event": "Hari Waisak"
   },
   "Thu, 31 May 2018 17:00:00 GMT": {
-    "event": "Hari Lahir Pancasila",
-    "dateStr": "1 Juni 2018"
+    "event": "Hari Lahir Pancasila"
   },
-  "Tue, 12 Jun 2018 17:00:00 GMT": {
-    "event": "Cuti Bersama",
-    "dateStr": "13 - 14 Juni 2018"
+  "Sun, 10 Jun 2018 17:00:00 GMT": {
+    "event": "Cuti Bersama Lebaran"
+  },
+  "Mon, 11 Jun 2018 00:00:00 GMT": {
+    "event": "Cuti Bersama Lebaran"
+  },
+  "Tue, 12 Jun 2018 00:00:00 GMT": {
+    "event": "Cuti Bersama Lebaran"
+  },
+  "Wed, 13 Jun 2018 00:00:00 GMT": {
+    "event": "Cuti Bersama Lebaran"
   },
   "Thu, 14 Jun 2018 17:00:00 GMT": {
-    "event": "Idul Fitri",
-    "dateStr": "15 - 16 Juni 2018"
+    "event": "Hari Raya Idul Fitri"
+  },
+  "Fri, 15 Jun 2018 00:00:00 GMT": {
+    "event": "Hari Raya Idul Fitri"
   },
   "Sun, 17 Jun 2018 17:00:00 GMT": {
-    "event": "Cuti Bersama",
-    "dateStr": "18 - 19 Juni 2018"
+    "event": "Cuti Bersama Lebaran"
+  },
+  "Mon, 18 Jun 2018 00:00:00 GMT": {
+    "event": "Cuti Bersama Lebaran"
+  },
+  "Tue, 19 Jun 2018 00:00:00 GMT": {
+    "event": "Cuti Bersama Lebaran"
   },
   "Tue, 26 Jun 2018 17:00:00 GMT": {
-    "event": "Pilkada",
-    "dateStr": "27 Juni 2018"
+    "event": "Hari Pencoblosan Pilkada Serentak"
   },
   "Thu, 16 Aug 2018 17:00:00 GMT": {
-    "event": "Hari Kemerdekaan",
-    "dateStr": "17 Agustus 2018"
+    "event": "Hari Kemerdekaan"
   },
   "Tue, 21 Aug 2018 17:00:00 GMT": {
-    "event": "Idul Adha",
-    "dateStr": "22 Agustus 2018"
+    "event": "Idul Adha"
   },
   "Mon, 10 Sep 2018 17:00:00 GMT": {
-    "event": "Tahun Baru Hijriyah",
-    "dateStr": "11 September 2018"
+    "event": "Tahun Baru Islam"
   },
-  "Mon, 19 Nov 2018 17:00:00 GMT": {
-    "event": "Maulid Nabi",
-    "dateStr": "20 November 2018"
+  "Sun, 18 Nov 2018 17:00:00 GMT": {
+    "event": "Maulid Nabi Muhammad SAW"
+  },
+  "Sat, 22 Dec 2018 17:00:00 GMT": {
+    "event": "Cuti Bersama Hari Natal"
   },
   "Sun, 23 Dec 2018 17:00:00 GMT": {
-    "event": "Cuti Bersama",
-    "dateStr": "24 Desember 2018"
-  },
-  "Mon, 24 Dec 2018 17:00:00 GMT": {
-    "event": "Hari Natal",
-    "dateStr": "25 Desember 2018"
+    "event": "Hari Natal"
   }
 }

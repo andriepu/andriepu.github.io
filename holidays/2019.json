@@ -1,62 +1,50 @@
 {
   "Mon, 31 Dec 2018 17:00:00 GMT": {
-    "event": "Tahun Baru Masehi",
-    "dateStr": "1 Januari 2019"
+    "event": "Tahun Baru Masehi"
   },
   "Mon, 04 Feb 2019 17:00:00 GMT": {
-    "event": "Tahun Baru Imlek",
-    "dateStr": "5 Februari 2019"
+    "event": "Tahun Baru Imlek"
   },
   "Wed, 06 Mar 2019 17:00:00 GMT": {
-    "event": "Hari Raya Nyepi",
-    "dateStr": "7 Maret 2019"
+    "event": "Hari Raya Nyepi"
   },
   "Tue, 02 Apr 2019 17:00:00 GMT": {
-    "event": "Isra Miraj",
-    "dateStr": "3 April 2019"
+    "event": "Isra Mi'raj"
   },
   "Thu, 18 Apr 2019 17:00:00 GMT": {
-    "event": "Jumat Agung",
-    "dateStr": "19 April 2019"
+    "event": "Jumat Agung"
   },
   "Tue, 30 Apr 2019 17:00:00 GMT": {
-    "event": "Hari Buruh",
-    "dateStr": "1 Mei 2019"
+    "event": "Hari Buruh"
   },
   "Sat, 18 May 2019 17:00:00 GMT": {
-    "event": "Hari Raya Waisak",
-    "dateStr": "19 Mei 2019"
+    "event": "Hari Waisak"
   },
   "Wed, 29 May 2019 17:00:00 GMT": {
-    "event": "Kenaikan Isa Almasih",
-    "dateStr": "30 Mei 2019"
+    "event": "Kenaikan Isa Almasih"
   },
   "Fri, 31 May 2019 17:00:00 GMT": {
-    "event": "Hari Lahir Pancasila",
-    "dateStr": "1 Juni 2019"
+    "event": "Hari Lahir Pancasila"
   },
-  "Mon, 03 Jun 2019 17:00:00 GMT": {
-    "event": "Idul Fitri",
-    "dateStr": "4 - 5 Juni 2019"
+  "Tue, 04 Jun 2019 17:00:00 GMT": {
+    "event": "Hari Raya Idul Fitri"
   },
-  "Fri, 16 Aug 2019 17:00:00 GMT": {
-    "event": "Hari Kemerdekaan",
-    "dateStr": "17 Agustus 2019"
+  "Wed, 05 Jun 2019 17:00:00 GMT": {
+    "event": "Cuti Bersama Lebaran"
   },
   "Sun, 11 Aug 2019 17:00:00 GMT": {
-    "event": "Idul Adha",
-    "dateStr": "12 Agustus 2019"
+    "event": "Idul Adha"
+  },
+  "Fri, 16 Aug 2019 17:00:00 GMT": {
+    "event": "Hari Kemerdekaan"
   },
   "Sat, 31 Aug 2019 17:00:00 GMT": {
-    "event": "Tahun Baru Hijriyah",
-    "dateStr": "1 September 2019"
+    "event": "Tahun Baru Islam"
   },
   "Fri, 08 Nov 2019 17:00:00 GMT": {
-    "event": "Maulid Nabi",
-    "dateStr": "9 November 2019"
+    "event": "Maulid Nabi Muhammad SAW"
   },
-  "Tue, 24 Dec 2019 17:00:00 GMT": {
-    "event": "Hari Natal",
-    "dateStr": "25 Desember 2019"
+  "Mon, 23 Dec 2019 17:00:00 GMT": {
+    "event": "Hari Natal"
   }
 }
