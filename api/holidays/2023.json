@@ -1,0 +1,47 @@
+{
+  "2022-12-31T17:00:00.000Z": {
+    "event": "Tahun Baru Masehi"
+  },
+  "2023-01-17T17:00:00.000Z": {
+    "event": "Tahun Baru Imlek"
+  },
+  "2023-02-17T17:00:00.000Z": {
+    "event": "Isra Miraj"
+  },
+  "2023-03-21T17:00:00.000Z": {
+    "event": "Hari Raya Nyepi"
+  },
+  "2023-04-06T17:00:00.000Z": {
+    "event": "Jumat Agung"
+  },
+  "2023-04-20T17:00:00.000Z": {
+    "event": "Idul Fitri"
+  },
+  "2023-04-30T17:00:00.000Z": {
+    "event": "Hari Buruh"
+  },
+  "2023-05-05T17:00:00.000Z": {
+    "event": "Hari Raya Waisak"
+  },
+  "2023-05-17T17:00:00.000Z": {
+    "event": "Kenaikan Isa Almasih"
+  },
+  "2023-05-31T17:00:00.000Z": {
+    "event": "Hari Lahir Pancasila"
+  },
+  "2023-06-28T17:00:00.000Z": {
+    "event": "Idul Adha"
+  },
+  "2023-07-18T17:00:00.000Z": {
+    "event": "Tahun Baru Hijriyah"
+  },
+  "2023-08-16T17:00:00.000Z": {
+    "event": "Hari Kemerdekaan"
+  },
+  "2023-09-26T17:00:00.000Z": {
+    "event": "Maulid Nabi"
+  },
+  "2023-12-24T17:00:00.000Z": {
+    "event": "Hari Natal"
+  }
+}

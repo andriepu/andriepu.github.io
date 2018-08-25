@@ -1,0 +1,20 @@
+{
+  "name": "andriepu.github.io",
+  "version": "1.0.0",
+  "description": "My github pages",
+  "repository": "https://github.com/andriepu/andriepu.github.io.git",
+  "author": "andriepu <andriepu@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "generate:holidays": "node ./api/holidays/generator.exclude.js"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "p-iteration": "^1.1.7"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb-bundle": "^2.0.4"
+  }
+}

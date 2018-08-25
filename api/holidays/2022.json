@@ -1,0 +1,47 @@
+{
+  "2021-12-31T17:00:00.000Z": {
+    "event": "Tahun Baru Masehi"
+  },
+  "2022-01-31T17:00:00.000Z": {
+    "event": "Tahun Baru Imlek"
+  },
+  "2022-02-28T17:00:00.000Z": {
+    "event": "Isra Miraj"
+  },
+  "2022-03-02T17:00:00.000Z": {
+    "event": "Hari Raya Nyepi"
+  },
+  "2022-04-14T17:00:00.000Z": {
+    "event": "Jumat Agung"
+  },
+  "2022-04-30T17:00:00.000Z": {
+    "event": "Hari Buruh"
+  },
+  "2022-05-02T17:00:00.000Z": {
+    "event": "Idul Fitri"
+  },
+  "2022-05-15T17:00:00.000Z": {
+    "event": "Hari Raya Waisak"
+  },
+  "2022-05-25T17:00:00.000Z": {
+    "event": "Kenaikan Isa Almasih"
+  },
+  "2022-05-31T17:00:00.000Z": {
+    "event": "Hari Lahir Pancasila"
+  },
+  "2022-07-09T17:00:00.000Z": {
+    "event": "Idul Adha"
+  },
+  "2022-07-29T17:00:00.000Z": {
+    "event": "Tahun Baru Hijriyah"
+  },
+  "2022-08-16T17:00:00.000Z": {
+    "event": "Hari Kemerdekaan"
+  },
+  "2022-10-07T17:00:00.000Z": {
+    "event": "Maulid Nabi"
+  },
+  "2022-12-24T17:00:00.000Z": {
+    "event": "Hari Natal"
+  }
+}
