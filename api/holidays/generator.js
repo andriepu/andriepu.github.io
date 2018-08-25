@@ -40,7 +40,7 @@ const getAllCalendarLinks = async () => {
 
       const event = $el.find('a').text();
 
-      res[dateTime.toISOString()] = { event, dateStr };
+      res[dateTime.toUTCString()] = { event, dateStr };
       return res;
     }, {});
 
